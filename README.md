@@ -1,20 +1,11 @@
 ## 👋 About Me
 
-I’m **Abhay Prabhakar** — a data scientist / ML engineer who loves turning raw, messy data into products people actually use.
+I’m currently finishing an MS in Data Science & Analytics at Georgia State University (Dec 2025). Previously, I was a Data Science Intern at Equifax (Kount), where I worked on end-to-end analytics and ML pipelines.
 
-**What I do (and enjoy):**  
-Ship end-to-end systems: ingest → clean → model → serve → monitor. I’ve worked across **prediction, ranking/recs, anomaly detection, NLP, time series, and telemetry**. Tools I reach for: **Python, SQL, Snowflake, scikit-learn, XGBoost, PyTorch, TensorFlow, LangChain**. I care about clarity, low latency, and strong observability.
+I came to data science through math and statistics—courses like Statistical Inference, Linear Models, and Machine Learning—and I like the mix of theory and building. Lately I’ve been exploring generative AI for safe data simulation and faster prototyping.
 
-**How I think:**  
-I prototype fast, measure honestly, and simplify aggressively. I like the boring bits that make ML work in production: feature contracts, evals that don’t lie, and dashboards that catch drift before pager o’clock.
+I’ve gained practical experience through projects in prediction, recommendations, anomaly detection, NLP, and telemetry. On the tooling side, I’m most at home with Python and SQL, and I’ve used scikit-learn, XGBoost, PyTorch, TensorFlow, Snowflake, and LangChain.
 
-**Receipts (short list):**  
-- Built data/ML pipelines that moved from notebook → production, informing real decisions.  
-- Explored **LLM-powered agents** for safe simulation/automation.  
-- Internship @ **Equifax (Kount)** working on analytics that reduce risk without killing UX.
+Outside work, I love playing chess online (~99.7th percentile of a 200M+ active player base)—and am an enthusiastic kitchen experimenter.
 
-**Beyond code:**  
-I’m a competitive chess nerd — **≈2000 online (~99.7th percentile of 200M+ Chess.com players)** — and a serial tinkerer (new tech, new recipes).
-
-Currently pursuing an **MS in Data Science & Analytics @ Georgia State University (Dec 2025)**.  
-If you’re building **applied AI/ML** with real users and real constraints, I’d love to chat.
+Next stop: full-time Data Scientist / ML Engineer roles where useful beats flashy and shipped beats hypothetical.
