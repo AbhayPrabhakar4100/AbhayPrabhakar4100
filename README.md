@@ -1,11 +1,20 @@
 ## 👋 About Me
 
-Hi, I’m **Abhay Prabhakar** — a data scientist at the intersection of **fraud detection**, **machine learning**, and **generative AI**.
+I’m **Abhay Prabhakar** — a data scientist / ML engineer who loves turning raw, messy data into products people actually use.
 
-I build end-to-end systems: cleaning and unifying messy financial data, training fraud models that catch patterns humans miss, and prototyping **LLM-powered agents** to simulate fraud profiles for safer testing. I work across **Snowflake, Python, XGBoost, PyTorch, TensorFlow, LangChain**, and ship scalable, production-ready solutions.
+**What I do (and enjoy):**  
+Ship end-to-end systems: ingest → clean → model → serve → monitor. I’ve worked across **prediction, ranking/recs, anomaly detection, NLP, time series, and telemetry**. Tools I reach for: **Python, SQL, Snowflake, scikit-learn, XGBoost, PyTorch, TensorFlow, LangChain**. I care about clarity, low latency, and strong observability.
 
-What motivates me is research *with* impact—exploring new ideas while delivering code that’s used: cutting inference latency to milliseconds, generating insights for policy teams, and deploying ML in production.
+**How I think:**  
+I prototype fast, measure honestly, and simplify aggressively. I like the boring bits that make ML work in production: feature contracts, evals that don’t lie, and dashboards that catch drift before pager o’clock.
 
-When I’m not in a notebook, I’m on a chessboard—**≈2000 online (~99.7th percentile of 200M+ Chess.com players)**. I also love tinkering with new tech and experimenting in the kitchen.
+**Receipts (short list):**  
+- Built data/ML pipelines that moved from notebook → production, informing real decisions.  
+- Explored **LLM-powered agents** for safe simulation/automation.  
+- Internship @ **Equifax (Kount)** working on analytics that reduce risk without killing UX.
 
-I’m pursuing an **MS in Data Science & Analytics at Georgia State University (Dec 2025)** and I’m open to collaborations around **AI/ML, risk, and data-driven product**.
+**Beyond code:**  
+I’m a competitive chess nerd — **≈2000 online (~99.7th percentile of 200M+ Chess.com players)** — and a serial tinkerer (new tech, new recipes).
+
+Currently pursuing an **MS in Data Science & Analytics @ Georgia State University (Dec 2025)**.  
+If you’re building **applied AI/ML** with real users and real constraints, I’d love to chat.
