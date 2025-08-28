@@ -1,11 +1,11 @@
 ## 👋 About Me
 
-I’m currently finishing an MS in Data Science & Analytics at Georgia State University (Dec 2025). Previously, I was a Data Science Intern at Equifax (Kount), where I worked on end-to-end analytics and ML pipelines.
+I’m finishing an MS in Data Science & Analytics at Georgia State University (Dec 2025). Previously, I worked at Equifax (Kount) as a Data & Analytics intern, taking projects from raw data to usable tools.
 
-I came to data science through math and statistics—courses like Statistical Inference, Linear Models, and Machine Learning—and I like the mix of theory and building. Lately I’ve been exploring generative AI for safe data simulation and faster prototyping.
+I came to data science through math and stats, and stuck around because I enjoy the mix of thinking and building. Lately I’ve been exploring practical ways to use generative AI alongside bread-and-butter analytics.
 
-I’ve gained practical experience through projects in prediction, recommendations, anomaly detection, NLP, and telemetry. On the tooling side, I’m most at home with Python and SQL, and I’ve used scikit-learn, XGBoost, PyTorch, TensorFlow, Snowflake, and LangChain.
+I’ve picked up hands-on experience across prediction, recommendations, anomaly detection, NLP, and a bit of telemetry. Day-to-day, I’m most at home with Python and SQL, and I’ve used scikit-learn, XGBoost, PyTorch, TensorFlow, Snowflake, and LangChain when the job called for it.
 
-Outside work, I love playing chess online (~99.7th percentile of a 200M+ active player base)—and am an enthusiastic kitchen experimenter.
+Away from the keyboard, I’m a loving playing chess online with a ratring of **2006 online (~99.7th percentile of a 200M+ active Chess.com player base)**—and a frequent kitchen experimenter.
 
-Next stop: full-time Data Scientist / ML Engineer roles where useful beats flashy and shipped beats hypothetical.
+Next stop: a full-time Data Scientist / ML Engineer role where useful beats flashy and shipped beats hypothetical.
