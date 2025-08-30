@@ -6,6 +6,6 @@ I came to data science through math and stats, and stuck around because I enjoy 
 
 I’ve picked up hands-on experience across prediction, recommendations, anomaly detection, NLP, and a bit of telemetry. Day-to-day, I’m most at home with Python and SQL, and I’ve used scikit-learn, XGBoost, PyTorch, TensorFlow, Snowflake, and LangChain when the job called for it.
 
-Away from the keyboard, I’m a love playing chess online and have a rating of **2006 elo online (~99.7th percentile of a 200M+ active Chess.com player base)**—and a frequent kitchen experimenter.
+Away from the keyboard, I’m a love playing chess online and have a rating of **2006 elo online (~99.7th percentile of a 200M+ active Chess.com player base)**, also a frequent kitchen experimenter.
 
 Next stop: a full-time Data Scientist / ML Engineer role where useful beats flashy and shipped beats hypothetical.
