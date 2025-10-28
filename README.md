@@ -9,6 +9,6 @@ Lately, I’ve been exploring **practical ways to use generative AI** alongside 
 I’ve picked up **hands-on experience** across **prediction, recommendations, anomaly detection, NLP, and telemetry**.  
 Day-to-day, I’m most at home with **Python and SQL**, and I’ve used **scikit-learn, XGBoost, PyTorch, TensorFlow, Snowflake, and LangChain** when the job called for it.
 
-Away from the keyboard, I’m a **chess player** with a rating of **2006 elo online (~99.7th percentile of a 200M+ active Chess.com player base)**, and also  **lift iron for fun**.
+Away from the keyboard, I’m a **chess player** with a rating of **2110 elo online (~99.9th percentile of a 200M+ active Chess.com player base)**, and also  **lift iron for fun**.
 
 **Next stop: a full-time Data Scientist / ML Engineer role** where **useful beats flashy** and **shipped beats hypothetical**.
